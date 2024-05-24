@@ -1,0 +1,2 @@
+"use strict";
+/api/weatherDashboard;
